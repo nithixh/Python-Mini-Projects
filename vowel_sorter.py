@@ -2,6 +2,7 @@
 # with each vowel repeated according to its frequency in the string.
 # Example: Input = "communication" → Output = "aiioou"
 s=input("Enter a string: ")
+s=s.lower()
 v="aeiou"
 d={}
 s1=""
