@@ -13,4 +13,4 @@ for i in s:
 for i in v:
     if i in d:
         s1=s1+(d[i]*i)
-print(s1)
+print("Output:",s1)
