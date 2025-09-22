@@ -31,6 +31,8 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **AP_series.py**  
   Generates an Arithmetic Progression (AP) based on the first term, common difference, and number of terms. Prints the series along with the last term.
 
+- **sum_of_digits_in_string.py**  
+  Extracts all digits from a given string and prints their sum. If no digits are found, it notifies the user.
 
 ## 🚀 How to Run
 
