@@ -25,6 +25,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **vowel_sorter.py**  
   A simple Python script that extracts all vowels from an input string and prints them in the fixed order `aeiou`, repeating them based on how many times each appears.
 
+- **thirukkural_adhigaram.py**  
+  Given a Thirukkural number (1–1330), it outputs the corresponding *Adhigaram* (chapter).
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
