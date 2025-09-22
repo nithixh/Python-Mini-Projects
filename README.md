@@ -21,6 +21,7 @@ This repository contains simple and beginner-friendly Python programs written fo
 
 - **vowelcount.py**  
   Counts the number of vowels in a given string.
+
 - **vowel_sorter.py**  
   A simple Python script that extracts all vowels from an input string and prints them in the fixed order `aeiou`, repeating them based on how many times each appears.
 
