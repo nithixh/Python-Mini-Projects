@@ -28,6 +28,10 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **thirukkural_adhigaram.py**  
   Given a Thirukkural number (1–1330), it outputs the corresponding *Adhigaram* (chapter).
 
+- **AP_series.py**  
+  Generates an Arithmetic Progression (AP) based on the first term, common difference, and number of terms. Prints the series along with the last term.
+
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
