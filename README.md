@@ -37,6 +37,8 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **list_elementwise_sum.py**  
   Takes two lists of equal length as input and creates a new list with the sum of corresponding elements.
 
+- **maths_game.py**  
+  A simple math quiz game for kids. Generates 5 random arithmetic questions (+, −, ×). Correct answers add 4 points, wrong answers deduct 2 points, and the final score is displayed with feedback.
 
 ## 🚀 How to Run
 
