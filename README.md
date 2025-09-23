@@ -34,6 +34,10 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **sum_of_digits_in_string.py**  
   Extracts all digits from a given string and prints their sum. If no digits are found, it notifies the user.
 
+- **list_elementwise_sum.py**  
+  Takes two lists of equal length as input and creates a new list with the sum of corresponding elements.
+
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
