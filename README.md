@@ -40,6 +40,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **maths_game.py**  
   A simple math quiz game for kids. Generates 5 random arithmetic questions (+, −, ×). Correct answers add 4 points, wrong answers deduct 2 points, and the final score is displayed with feedback.
 
+- **unique_list.py**  
+  Removes duplicate elements from a list and prints the unique elements in the order they first appeared.
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
