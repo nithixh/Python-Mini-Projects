@@ -43,6 +43,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **unique_list.py**  
   Removes duplicate elements from a list and prints the unique elements in the order they first appeared.
 
+- **string_initials.py**  
+  Converts a string to uppercase and prints the initials of each word (e.g., "Kongu Engineering College" → "KEC").
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
