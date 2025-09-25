@@ -46,6 +46,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **string_initials.py**  
   Converts a string to uppercase and prints the initials of each word (e.g., "Nithish Kumar" → "NK").
 
+- **GP_series.py**  
+  Generates a Geometric Progression (GP) based on the first term, common ratio, and number of terms. Prints the series.
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
