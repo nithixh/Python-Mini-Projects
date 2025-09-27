@@ -49,6 +49,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **GP_series.py**  
   Generates a Geometric Progression (GP) based on the first term, common ratio, and number of terms. Prints the series.
 
+- **product_pickle.py**  
+  Uses Python's pickle module to store product details (ID, Name, Price) in a binary file and search for a product by its ID.
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
