@@ -52,6 +52,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 - **product_pickle.py**  
   Uses Python's pickle module to store product details (ID, Name, Price) in a binary file and search for a product by its ID.
 
+- **csv_writer.py**  
+  Demonstrates writing lists of data into a CSV file (`test.csv`) using Python's csv module.
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed.  
