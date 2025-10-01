@@ -54,6 +54,9 @@ This repository contains simple and beginner-friendly Python programs written fo
 
 - **csv_writer.py**  
   Demonstrates writing lists of data into a CSV file (`test.csv`) using Python's csv module.
+  
+- **division_loop.py**  
+  Performs integer division of two positive numbers using repeated subtraction. Prints both quotient and remainder.
 
 ## 🚀 How to Run
 
